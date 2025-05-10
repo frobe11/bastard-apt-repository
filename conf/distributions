@@ -1,0 +1,8 @@
+Origin: frobe
+Label: Bastard APT Repository
+Suite: stable
+Codename: focal
+Architectures: amd64
+Components: main
+Description: APT repository for frobe's utils and programs
+SignWith: YES

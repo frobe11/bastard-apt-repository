@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: frobe
+Label: Bastard APT Repository
+Suite: stable
+Codename: focal
+Date: Sat, 10 May 2025 16:26:02 UTC
+Architectures: amd64
+Components: main
+Description: APT repository for frobe's utils and programs
+MD5Sum:
+ 7eb08c16fa9ed6a71f0cf3bff925294b 684 main/binary-amd64/Packages
+ eeceaff4c53a4facecaa96a2b1e4ddab 473 main/binary-amd64/Packages.gz
+ 9340c8671f2698439dce6b909765b0a5 155 main/binary-amd64/Release
+SHA1:
+ 47ad26d6dce413fe8f67c584958b64b6aab11d13 684 main/binary-amd64/Packages
+ e81d44082e27bbcb1e4e6865887b2d39ee3a4780 473 main/binary-amd64/Packages.gz
+ 468856d4905171827cb1906ca51b65ff5596ffa3 155 main/binary-amd64/Release
+SHA256:
+ 32184cb59ab39d7c370b487860e0da4406b275feb54026866f879d1f9c5b455b 684 main/binary-amd64/Packages
+ 35f7e494064a8943a83ef43870c319d9d4593bcfc6c5437c68ca99579aa08d0a 473 main/binary-amd64/Packages.gz
+ d89761d8cd377d585cc1105fac8f31d12d0a2a3f2636d1b5b7021cb23b9c6884 155 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQT4TxfCZe+brTN/b8Kl091jPhOs2QUCaB9+PgAKCRCl091jPhOs
+2fq0AQDgXLwanoe1JsPf/GLWpH9fsS6o9HVN/RDaE9v2F1oM+wEA7sCphwxZDvWq
+oroj0uZiXPmY95W8YDnUH1G9AB7rTwQ=
+=I2Xd
+-----END PGP SIGNATURE-----

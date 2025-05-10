@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: frobe
+Label: Bastard APT Repository
+Architecture: amd64
+Description: APT repository for frobe's utils and programs
