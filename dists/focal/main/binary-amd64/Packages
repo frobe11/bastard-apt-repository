@@ -1,15 +1,15 @@
 Package: basfetch
-Version: 1.0
+Version: 1.1
 Architecture: amd64
 Depends: git, cmake, build-essential
 Maintainer: frobe11 <frobe11@mail.ru>
 Priority: optional
 Section: utils
-Filename: pool/main/b/basfetch/basfetch_1.0_amd64.deb
-Size: 14018
-SHA256: fa8081da265d284a747743c2be8f4cf06fc9f59c77275d9441259a5323d7d0f6
-SHA1: 0bdae46e481768e2474fd591c087a9097af7e08f
-MD5sum: 056d64452fd6a203fbac7fbc1c883ed8
+Filename: pool/main/b/basfetch/basfetch_1.1_amd64.deb
+Size: 13540
+SHA256: 8a5ecab23722950f9dd20752737efacbc082333f57076f34cd362d66f2f7c6f4
+SHA1: be96d88d6ea7bfa60f431da137561f96d3165fcf
+MD5sum: ae242426ff589faa99478826d5db5eee
 Description: Utility to install and build C++ libraries from Git repositories
  This script allows users to fetch a C++ library from a Git repository,
  build it using CMake, and install it system-wide.

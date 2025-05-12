@@ -15,6 +15,7 @@ sudo apt update
 ## Packages
 
 ### Basfetch
+https://github.com/frobe11/basfetch
 instal any cpp libary from github (only if repo have CMakeLists.txt)
 ```bash
 sudo apt install basfetch -y
